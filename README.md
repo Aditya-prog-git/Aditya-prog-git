@@ -50,6 +50,7 @@ Thanks for visiting, and I'd love to [connect on LinkedIn](https://www.linkedin.
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-prog-git&show_icons=true&theme=radical&hide=prs,issues" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-prog-git&theme=tokyonight&hide_border=true" height="150">
 </p>
 
 ---
