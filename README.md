@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Aditya Raj Singh
 
 Welcome to my profile! I'm a student, part-time coder, and full-time adventure seeker.  
-Thanks for visiting, and I'd love to [connect on LinkedIn](https://www.linkedin.com/in/aditya-raj-singh-212a65285)!
+Thanks for visiting, and I'd love to connect on [LinkedIn](https://www.linkedin.com/in/aditya-raj-singh-212a65285)!
 
 - 🚀 I’m currently working on **Power Release Optimization in EV Charging Stations**
 - 🧠 I’m learning **AI/ML and NLP**
