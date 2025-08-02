@@ -54,7 +54,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,nodejs,mongodb,postgres,firebase,git,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,postgres,git&perline=7" />
 </p>
 
 ### 📊 Python Libraries
