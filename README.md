@@ -18,29 +18,52 @@
 </p>
 
 ---
-### ⚡ About Me
+## ⚡ About Me
 
-- 💻 I'm a full-stack developer passionate about crafting **modern web apps** with the **MERN stack**, with a strong emphasis on **React**, reusable UI components, and seamless user experiences
-- 🌐 Experienced in building dynamic dashboards, backend APIs, and data-driven UIs using **MongoDB, Express, React, and Node.js**
-- 🧠 I enjoy integrating **AI/ML models** into real-world applications — combining intelligent logic with clean front-end interfaces
-- 🧩 I thrive on architecting systems that are both **functionally smart** and **visually intuitive**
+<div align="center">
+
+🌐 Full-stack web developer with a sharp focus on the **MERN stack**  
+💡 I build modular, high-performance UIs using **React**  
+🔗 Experienced in designing REST APIs and dashboards using **MongoDB**, **Express**, **Node.js**
+
+🧠 I also blend in **AI/ML** capabilities — integrating lightweight models directly into production-ready apps  
+🎯 I believe in code that’s not just functional, but also **visually intuitive** and user-first
+
+</div>
 
 ---
 
-### 🔋 Project Spotlight – Smart EV Charging Scheduler
+## 🔋 Project Spotlight: Smart EV Charging Scheduler
 
-A **Q-Learning–based Reinforcement Learning system** to optimize EV charging at solar-powered stations, supported by a custom-built **React dashboard** for users.
+> A real-world application that merges **clean UI**, **sustainable tech**, and **Reinforcement Learning**
 
-#### 🔧 Key Features:
-- Prioritizes **solar energy and battery storage**, minimizing costly grid usage
-- Takes into account: **SoC, solar input, battery level, grid cost, time, and plug-in/out slots**
-- Uses a **reward-based RL approach** to learn optimal charging schedules
-- Built a responsive **React dashboard** for:
-  - User input (SoC, charging mode, plug timings)
-  - Visualizing charging schedules & solar performance
-  - Monitoring cost efficiency and energy source usage
+<p align="center">
+  ⚡ React · 🔁 Q-Learning · ☀️ Dual-Axis Solar · 💾 Battery Storage
+</p>
 
-> This project blends **AI**, **energy optimization**, and **React UI design** into a unified real-world system.
+---
+
+### 🧩 Project Summary
+
+A custom-built full-stack solution for intelligent EV charging, backed by RL and displayed through a **React dashboard**:
+
+#### 💡 Key Features:
+- 🔆 Prioritizes **solar energy and battery storage** to reduce reliance on grid power  
+- 🧠 Trained with **Q-Learning** to decide **when and how to charge** each EV  
+- 📊 Interactive **React dashboard** for:
+  - SoC-based user inputs  
+  - Charging mode selections (fast/slow)  
+  - Live schedule & energy source visualizations  
+  - Cost & efficiency monitoring  
+
+> 🚗 Inputs: SoC, grid price, solar availability, time, plug-in/out times  
+> 🧠 RL model learns to balance cost, energy type, and full charge before departure
+
+---
+
+<p align="center">
+  <i>“Blending AI logic, energy optimization, and UI design into one real-world product.”</i>
+</p>
 
 ---
 
