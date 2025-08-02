@@ -93,9 +93,9 @@
       <td>Full-stack product listing, payments, admin panel, and cart management</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Aditya-prog-git/weather-app"><strong>🌤️ Weather App</strong></a></td>
-      <td><code>React</code>, <code>API</code></td>
-      <td>Real-time forecast with city-based & geolocation search</td>
+      <td><a href="https://github.com/Aditya-prog-git/Permalist"><strong>🗂️ Permalist — To-Do App</strong></a></td>
+      <td><code>JavaScript</code>, <code>EJS</code>, <code>PostgreSQL</code></td>
+      <td>Responsive full-stack to-do manager with dynamic lists & persistent storage</td>
     </tr>
   </tbody>
 </table>
