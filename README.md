@@ -1,61 +1,74 @@
-# 👋 Hi, I'm Aditya Raj Singh
+<h1 align="center">Aditya Raj Singh</h1>
 
-🎓 Student | 💻 Part-time Coder | 🌍 Full-time Adventure Seeker
-
-Welcome to my GitHub! I’m currently exploring the intersections of **AI/ML**, **full stack development**, and **sustainable tech**.
-
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-singh-212a65285)
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya-prog-git)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityasingh01676)
-
----
-
-## 🚀 Current Focus
-- 🔋 **Optimizing Power Release in EV Charging Stations**
-- 🧠 Learning **AI/ML**, **NLP**, and system design
-- 🌐 Building with **MERN Stack & Next.js**
-- 💼 Preparing for **internships & placements**
-- 😄 Debugging with coffee and a sense of humor
+<p align="center">
+  🚀 Student · 💻 Full Stack Dev · 🤖 AI Explorer · ⚡ EV Optimizer <br>
+  <a href="https://www.linkedin.com/in/aditya-raj-singh-212a65285/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Aditya-prog-git" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/adityasingh01676" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### ⚡ About Me
 
-**Languages & Frameworks**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-**Databases & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Python Libraries**
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0769AD?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-FF6F00?style=flat-square&logo=python&logoColor=white)
+- 🔋 Working on **Power Optimization in EV Charging Stations**
+- 🤖 Diving into **AI/ML**, **NLP**, and model deployment
+- 🌐 Building dynamic UIs with **MERN Stack & Next.js**
+- 🎯 Preparing for **internships & placement season**
+- 🧠 Believe debugging is 50% code, 50% caffeine
 
 ---
 
-## 📌 Highlighted Projects
+### 🛠 Tech Stack
 
-- [⚡ EV Charging Optimization](https://github.com/Aditya-prog-git/ev-charging-project)  
-  *Smart load management for efficient electric vehicle charging*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,nodejs,mongodb,postgres,firebase,git,figma&perline=7" />
+</p>
 
-- [🌤️ Weather App](https://github.com/Aditya-prog-git/weather-app)  
-  *React-based weather forecasting with real-time data*
+#### 📊 Python Libraries
 
-- [🎬 Movie Recommender](https://github.com/Aditya-prog-git/movie-recommender)  
-  *ML-powered personalized movie suggestions*
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0769AD?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-FF6F00?style=flat&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+### 🚀 Featured Projects
 
-Thanks for stopping by!
+| Project | Tech | Description |
+|--------|------|-------------|
+| [⚡ EV Charging Optimization](https://github.com/Aditya-prog-git/ev-charging-project) | Python, ML, MongoDB | Smart load balancing using ML for EV stations |
+| [🌤 Weather App](https://github.com/Aditya-prog-git/weather-app) | React, API | Real-time weather UI with geolocation & search |
+| [🎬 Movie Recommender](https://github.com/Aditya-prog-git/movie-recommender) | Python, Pandas | ML-based personalized movie recommendations |
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-raj-singh-212a65285/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Aditya-prog-git">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</p>
