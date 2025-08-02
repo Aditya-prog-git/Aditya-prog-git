@@ -60,32 +60,60 @@
 #### 📊 Python Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit-learn,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=numpy&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=pandas&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=matplotlib&theme=light" height="40" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| [⚡ EV Charging Optimization](https://github.com/Aditya-prog-git/ev-charging-project) | Python, ML, MongoDB | Smart load balancing using ML for EV stations |
-| [🌤 Weather App](https://github.com/Aditya-prog-git/weather-app) | React, API | Real-time weather UI with geolocation & search |
-| [🎬 Movie Recommender](https://github.com/Aditya-prog-git/movie-recommender) | Python, Pandas | ML-based personalized movie recommendations |
+<p align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>🚀 Project</th>
+      <th>🛠️ Tech Stack</th>
+      <th>📄 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Aditya-prog-git/ev-charging-project">⚡ EV Charging Optimization</a></td>
+      <td>Python, ML, MongoDB</td>
+      <td>Smart load balancing with Q-Learning and solar scheduling</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Aditya-prog-git/weather-app">🌤️ Weather App</a></td>
+      <td>React, API</td>
+      <td>Live weather forecast with geolocation & city search</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Aditya-prog-git/movie-recommender">🎬 Movie Recommender</a></td>
+      <td>Python, Pandas</td>
+      <td>Content-based movie suggestions using ML</td>
+    </tr>
+  </tbody>
+</table>
+
+</p>
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-raj-singh-212a65285/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/aditya-raj-singh-212a65285/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  <a href="https://github.com/Aditya-prog-git">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Aditya-prog-git" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 </p>
 
