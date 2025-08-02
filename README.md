@@ -43,28 +43,11 @@
 
 ---
 
-### 🧩 Project Summary
+**🔍 Highlights**
 
-A custom-built full-stack system designed to optimize EV charging behavior based on solar energy availability, battery state, and user constraints — all visualized through a clean **React dashboard**.
-
-#### 💡 Key Features:
-- 🔆 Prioritizes **solar energy and battery storage**, minimizing grid power usage
-- 🧠 Uses **Q-Learning (Reinforcement Learning)** to decide **when** and **how** to charge EVs
-- 🧾 Considers real-time factors like:
-  - SoC (State of Charge)
-  - Solar input
-  - Grid cost
-  - Time and plug-in/plug-out schedules
-- 📊 Built a responsive **React dashboard** for:
-  - Inputting charging preferences  
-  - Viewing solar forecasts and schedules  
-  - Monitoring cost efficiency and source usage
-
----
-
-<p align="center">
-  <i>“Blending AI logic, energy optimization, and UI design into one unified real-world product.”</i>
-</p>
+- ⚡ **AI-powered scheduling logic** — Learns *when to charge* using real-time data from **solar input**, **battery levels**, and **grid prices**
+- 🧩 **Full-stack implementation** — Controlled through a custom **React dashboard** for user inputs, live schedule previews, and cost monitoring
+- 🌞 **Smart energy optimization** — Prioritizes **solar usage** and **battery discharge** before falling back on costly grid power
 
 ---
 
