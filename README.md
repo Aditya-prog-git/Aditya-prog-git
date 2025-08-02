@@ -20,7 +20,7 @@
 ---
 ## ⚡ About Me
 
-<div align="center">
+<div align="justify">
 
 🌐 Full-stack web developer with a sharp focus on the **MERN stack**  
 💡 I build modular, high-performance UIs using **React**  
@@ -33,9 +33,9 @@
 
 ---
 
-## 🔋 Project Spotlight: Smart EV Charging Scheduler
+## 🔋 Smart EV Charging Scheduler – Merging React UI with Reinforcement Learning
 
-> A real-world application that merges **clean UI**, **sustainable tech**, and **Reinforcement Learning**
+> A real-world application that merges **clean UI**, **sustainable tech**, and **Reinforcement Learning** to create an intelligent charging system.
 
 <p align="center">
   ⚡ React · 🔁 Q-Learning · ☀️ Dual-Axis Solar · 💾 Battery Storage
@@ -45,24 +45,25 @@
 
 ### 🧩 Project Summary
 
-A custom-built full-stack solution for intelligent EV charging, backed by RL and displayed through a **React dashboard**:
+A custom-built full-stack system designed to optimize EV charging behavior based on solar energy availability, battery state, and user constraints — all visualized through a clean **React dashboard**.
 
 #### 💡 Key Features:
-- 🔆 Prioritizes **solar energy and battery storage** to reduce reliance on grid power  
-- 🧠 Trained with **Q-Learning** to decide **when and how to charge** each EV  
-- 📊 Interactive **React dashboard** for:
-  - SoC-based user inputs  
-  - Charging mode selections (fast/slow)  
-  - Live schedule & energy source visualizations  
-  - Cost & efficiency monitoring  
-
-> 🚗 Inputs: SoC, grid price, solar availability, time, plug-in/out times  
-> 🧠 RL model learns to balance cost, energy type, and full charge before departure
+- 🔆 Prioritizes **solar energy and battery storage**, minimizing grid power usage
+- 🧠 Uses **Q-Learning (Reinforcement Learning)** to decide **when** and **how** to charge EVs
+- 🧾 Considers real-time factors like:
+  - SoC (State of Charge)
+  - Solar input
+  - Grid cost
+  - Time and plug-in/plug-out schedules
+- 📊 Built a responsive **React dashboard** for:
+  - Inputting charging preferences  
+  - Viewing solar forecasts and schedules  
+  - Monitoring cost efficiency and source usage
 
 ---
 
 <p align="center">
-  <i>“Blending AI logic, energy optimization, and UI design into one real-world product.”</i>
+  <i>“Blending AI logic, energy optimization, and UI design into one unified real-world product.”</i>
 </p>
 
 ---
