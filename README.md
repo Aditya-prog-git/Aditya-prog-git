@@ -73,36 +73,32 @@
 
 ### 🚀 Featured Projects
 
-<p align="center">
-
-<table>
+<table align="center" width="100%">
   <thead>
     <tr>
-      <th>🚀 Project</th>
-      <th>🛠️ Tech Stack</th>
-      <th>📄 Description</th>
+      <th align="left">🌟 Project</th>
+      <th align="left">🛠️ Tech Stack</th>
+      <th align="left">📄 Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Aditya-prog-git/ev-charging-project">⚡ EV Charging Optimization</a></td>
-      <td>Python, ML, MongoDB</td>
-      <td>Smart load balancing with Q-Learning and solar scheduling</td>
+      <td><a href="https://github.com/Aditya-prog-git/ev-charging-project"><strong>⚡ EV Charging Optimization</strong></a></td>
+      <td><code>Python</code>, <code>ML</code>, <code>MongoDB</code></td>
+      <td>Smart load balancing with <strong>Q-Learning</strong> & solar energy scheduling</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Aditya-prog-git/weather-app">🌤️ Weather App</a></td>
-      <td>React, API</td>
-      <td>Live weather forecast with geolocation & city search</td>
+      <td><a href="https://github.com/Aditya-prog-git/ShopIT"><strong>🛒 Ecommerce Web App</strong></a></td>
+      <td><code>React</code>, <code>Redux</code>, <code>Node.js</code>, <code>MongoDB</code></td>
+      <td>Full-stack product listing, payments, admin panel, and cart management</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Aditya-prog-git/movie-recommender">🎬 Movie Recommender</a></td>
-      <td>Python, Pandas</td>
-      <td>Content-based movie suggestions using ML</td>
+      <td><a href="https://github.com/Aditya-prog-git/weather-app"><strong>🌤️ Weather App</strong></a></td>
+      <td><code>React</code>, <code>API</code></td>
+      <td>Real-time forecast with city-based & geolocation search</td>
     </tr>
   </tbody>
 </table>
-
-</p>
 
 ---
 
