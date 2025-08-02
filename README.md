@@ -57,13 +57,16 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,nodejs,mongodb,postgres,firebase,git,figma&perline=7" />
 </p>
 
-#### 📊 Python Libraries
+### 📊 Python Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy&theme=light" height="40" />
-  <img src="https://skillicons.dev/icons?i=pandas&theme=light" height="40" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn&theme=light" height="40" />
-  <img src="https://skillicons.dev/icons?i=matplotlib&theme=light" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="35" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="35" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="35" />
 </p>
 
 ---
@@ -103,7 +106,7 @@
 
 ---
 
-### 🤝 Let’s Connect
+<h3 align="center">🤝 Let’s Connect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-raj-singh-212a65285/" target="_blank">
