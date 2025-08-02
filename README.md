@@ -18,14 +18,29 @@
 </p>
 
 ---
-
 ### ⚡ About Me
 
-- 🔋 Working on **Power Optimization in EV Charging Stations**
-- 🤖 Diving into **AI/ML**, **NLP**, and model deployment
-- 🌐 Building dynamic UIs with **MERN Stack & Next.js**
-- 🎯 Preparing for **internships & placement season**
-- 🧠 Believe debugging is 50% code, 50% caffeine
+- 💻 I'm a full-stack developer passionate about crafting **modern web apps** with the **MERN stack**, with a strong emphasis on **React**, reusable UI components, and seamless user experiences
+- 🌐 Experienced in building dynamic dashboards, backend APIs, and data-driven UIs using **MongoDB, Express, React, and Node.js**
+- 🧠 I enjoy integrating **AI/ML models** into real-world applications — combining intelligent logic with clean front-end interfaces
+- 🧩 I thrive on architecting systems that are both **functionally smart** and **visually intuitive**
+
+---
+
+### 🔋 Project Spotlight – Smart EV Charging Scheduler
+
+A **Q-Learning–based Reinforcement Learning system** to optimize EV charging at solar-powered stations, supported by a custom-built **React dashboard** for users.
+
+#### 🔧 Key Features:
+- Prioritizes **solar energy and battery storage**, minimizing costly grid usage
+- Takes into account: **SoC, solar input, battery level, grid cost, time, and plug-in/out slots**
+- Uses a **reward-based RL approach** to learn optimal charging schedules
+- Built a responsive **React dashboard** for:
+  - User input (SoC, charging mode, plug timings)
+  - Visualizing charging schedules & solar performance
+  - Monitoring cost efficiency and energy source usage
+
+> This project blends **AI**, **energy optimization**, and **React UI design** into a unified real-world system.
 
 ---
 
@@ -38,11 +53,7 @@
 #### 📊 Python Libraries
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0769AD?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-FF6F00?style=flat&logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit-learn,matplotlib" />
 </p>
 
 ---
