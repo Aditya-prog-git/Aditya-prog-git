@@ -1,15 +1,19 @@
 <h1 align="center">Aditya Raj Singh</h1>
 
 <p align="center">
-  🚀 Student · 💻 Full Stack Dev · 🤖 AI Explorer · ⚡ EV Optimizer <br>
+  🚀 Student · 💻 Full Stack Dev · 🤖 AI Explorer · ⚡ EV Optimizer
+</p>
+
+<!-- Add spacing here -->
+<p align="center" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/aditya-raj-singh-212a65285/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Aditya-prog-git" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.kaggle.com/adityasingh01676" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img alt="Kaggle" src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
 
