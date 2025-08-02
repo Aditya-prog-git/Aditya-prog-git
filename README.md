@@ -83,14 +83,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Aditya-prog-git/ev-charging-project"><strong>⚡ EV Charging Optimization</strong></a></td>
-      <td><code>Python</code>, <code>ML</code>, <code>MongoDB</code></td>
-      <td>Smart load balancing with <strong>Q-Learning</strong> & solar energy scheduling</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/Aditya-prog-git/ShopIT"><strong>🛒 Ecommerce Web App</strong></a></td>
       <td><code>React</code>, <code>Redux</code>, <code>Node.js</code>, <code>MongoDB</code></td>
       <td>Full-stack product listing, payments, admin panel, and cart management</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Aditya-prog-git/ev-charging-project"><strong>⚡ EV Charging Optimization</strong></a></td>
+      <td><code>Python</code>, <code>ML</code>, <code>MongoDB</code></td>
+      <td>Smart load balancing with <strong>Q-Learning</strong> & solar energy scheduling</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Aditya-prog-git/Permalist"><strong>🗂️ Permalist — To-Do App</strong></a></td>
