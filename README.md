@@ -1,7 +1,7 @@
 <h1 align="center">Aditya Raj Singh</h1>
 
 <p align="center">
-  🚀 Student · 💻 Full Stack Dev · 🤖 AI Explorer · ⚡ EV Optimizer
+  💻 Full Stack Dev · 🧠 ML-aware · 💡 Real-World Builder · 🔍 Detail Driven
 </p>
 
 <!-- Add spacing here -->
